@@ -6,6 +6,10 @@
 						<datadir zip="true">https://qwarlock.github.io/repository.qwarlock/zips/</datadir>
 		</dir>
 
+    <dir>
+						<info compressed="false">https://qwarlock.github.io/repo.kodi.qwarlock/addons.xml</info>
+						<datadir zip="true">https://qwarlock.github.io/repo.kodi.qwarlock/</datadir>
+    </dir>
 		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/mr-kodi/repository.myaccounts/master/zips/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/mr-kodi/repository.myaccounts/master/zips/addons.xml.md5</checksum>
