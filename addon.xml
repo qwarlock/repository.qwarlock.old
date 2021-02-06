@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.qwarlock" name="[COLOR red]Qwarlock[/COLOR] Repository" version="0.01" provider-name="Qwarlock">
 	<extension point="xbmc.addon.repository" name="Qwarlock Repo">
-		<dir>
-						<info compressed="false">https://qwarlock.github.io/repository.qwarlock/addon.xml</info>
-						<checksum>https://qwarlock.github.io/repository.qwarlock/addon.xml.md5</checksum>
-						<datadir zip="true">https://qwarlock.github.io/repository.qwarlock/zips/</datadir>
-		</dir>
 
     <dir>
 						<info compressed="false">https://qwarlock.github.io/repo.kodi.qwarlock/addons.xml</info>
+		        <checksum>https://qwarlock.github.io/repo.kodi.qwarlock/addons.xml.md5</checksum>
 						<datadir zip="true">https://qwarlock.github.io/repo.kodi.qwarlock/</datadir>
-    </dir>
+
+		</dir>
 
 		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/mr-kodi/repository.myaccounts/master/zips/addons.xml</info>
