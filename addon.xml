@@ -3,6 +3,7 @@
 	<extension point="xbmc.addon.repository" name="Qwarlock Repo">
 		<dir>
 						<info compressed="false">https://qwarlock.github.io/repository.qwarlock/addon.xml</info>
+						<checksum>https://qwarlock.github.io/repository.qwarlock/addon.xml.md5</checksum>
 						<datadir zip="true">https://qwarlock.github.io/repository.qwarlock/zips/</datadir>
 		</dir>
 
