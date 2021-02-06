@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.qwarlock" name="[COLOR red]Qwarlock[/COLOR] Repository" version="0.01" provider-name="Qwarlock">
+<addon id="repository.qwarlock" name="[COLOR red]Qwarlock[/COLOR] Repository" version="0.0.1" provider-name="Qwarlock">
 	<extension point="xbmc.addon.repository" name="Qwarlock Repo">
 
     <dir>
